@@ -16,4 +16,4 @@ int binaryToDecimal(int n){
 int main(){
     cout<<binaryToDecimal(10000);
     return 0;
-}
+}   
